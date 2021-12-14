@@ -14,7 +14,7 @@ import tkinter.ttk as ttk
 def close (x):
     
     """
-    Cette fonction a pour objectif de fermer
+    Cette fonction a pour objectif de fermer une fenetre tkinter
     IN : La page que l'on souhaite fermer
     OUT : Aucun retour
     """
