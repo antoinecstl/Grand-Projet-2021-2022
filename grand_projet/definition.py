@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 19 14:54:42 2021
-
-@author: antoi
+Fichier de fonctions
+Par Geoffrey VENANT et Antoine CASTEL
+En classe 2PD2
 """
 import tkinter as tk
 from tkinter.constants import END, NO, RIGHT, VERTICAL, W, Y
